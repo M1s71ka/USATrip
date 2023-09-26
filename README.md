@@ -1,5 +1,7 @@
 ***USA Trip*** - web page, where you can find info about most popular states of the USA.
 
+![Preview](/src/img/preview.jpg)
+
 ©Copyright:
 
 [Main photo of the page](https://unsplash.com/photos/wpU4veNGnHg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
