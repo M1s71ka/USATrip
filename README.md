@@ -6,7 +6,7 @@
 
 [Main photo of the page](https://unsplash.com/photos/wpU4veNGnHg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-[NY photo](https://unsplash.com/photos/wpU4veNGnHg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+[NY photo](https://unsplash.com/photos/A2CChTZvzTE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink))
 
 [California photo](https://unsplash.com/photos/gZXx8lKAb7Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
